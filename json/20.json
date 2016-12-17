@@ -6,33 +6,33 @@
   "children":[
     {
       "name":"Demeter",
-      "bio":" ",
+      "bio":"The goddess of the harvest and agriculture.",
       "image":"images/Demeter.jpg"
     },
     {
       "name":"Poseidon",
-      "bio":" ",
+      "bio":"The \"Earth Shaker.\" God of the Sea. One of the twelve Olympians.",
       "image":"images/Poseidon.jpg"
     },
     {
       "name":"Zeus",
-      "bio":" ",
+      "bio":"The sky and thunder god. Ruled as king of the gods of Mount Olympus.",
       "image":"images/Zeus.jpg"
     },
     {
       "name":"Hera",
-      "bio":" ",
+      "bio":"The goddess of women and marriage.",
       "image":"images/Hera.jpg",
       "isFemale":true
     },
     {
       "name":"Hades",
-      "bio":" ",
+      "bio":"The god of the underworld.",
       "image":"images/Hades.jpg"
     },
     {
       "name":"Hestia",
-      "bio":" ",
+      "bio":"A virgin goddess of the hearth, architecture, and the right ordering of domesticity, the family, the home, and the state.",
       "image":"images/Hestia.jpg",
       "isFemale":true
     }

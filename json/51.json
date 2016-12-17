@@ -1,0 +1,49 @@
+{
+  "name": "Uranus + Gaia",
+  "bio":" ",
+  "areParents":true,
+  "children":[
+    {
+      "name": "Cronus + Rhea",
+      "bio":" ",
+      "image":"images/Cronus-and-Rhea.jpg",
+      "areParents":true,
+      "children":[
+        {
+          "name":"Zeus",
+          "bio":"With Metis, Athena is conceived. Zeus eats Metis out of fear.",
+          "image":"images/Zeus.jpg",
+          "children":[
+            {
+              "name":"Athena",
+              "bio":"The goddess of wisdom, craft, and war.",
+              "image":"images/Athena.jpg",
+              "isFemale":true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name":"Oceanus + Tethys",
+      "bio":" ",
+      "image":"images/Oceanus-and-Tethys.jpg",
+      "areParents":true,
+      "children":[
+        {
+          "name":"Metis",
+          "bio":"The first great spouse of Zeus.",
+          "isFemale":true,
+          "children":[
+            {
+              "name":"Athena",
+              "bio":"The goddess of wisdom, craft, and war.",
+              "image":"images/Athena.jpg",
+              "isFemale":true
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

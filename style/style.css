@@ -4,6 +4,10 @@ html, body {
     margin: 0;
 }
 
+.no-margin {
+    margin: 0;
+}
+
 .jumbotron ul {
     width: 1%;
     padding: 0;

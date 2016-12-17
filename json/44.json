@@ -1,0 +1,34 @@
+{
+  "name": "Ares + Dotis",
+  "bio":" ",
+  "areParents":true,
+  "children":[
+    {
+      "name": "Phlegyas",
+      "bio":"King of the Lapiths.",
+      "children":[
+        {
+          "name":"Ixion",
+          "bio":"King of the Lapiths in Thessaly.",
+          "children":[
+            {
+              "name":"Pirithous",
+              "bio":"King of the Lapiths in Thessaly and husband of Hippodamia."
+            }
+          ]
+        },
+        {
+          "name":"Coronis",
+          "bio":"One of Apollo's lovers.",
+          "isFemale":true,
+          "children":[
+            {
+              "name":"Asclepius",
+              "bio":"A hero and god of medicine."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

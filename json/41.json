@@ -1,0 +1,29 @@
+{
+  "name": "Zeus + Hera",
+  "bio":" ",
+  "image":"images/Zeus-and-Hera.jpg",
+  "areParents":true,
+  "children":[
+    {
+      "name": "Hebe",
+      "bio":"The goddess of youth.",
+      "image":"images/Hebe.jpg",
+      "isFemale":true
+    },
+    {
+      "name":"Hephaestus",
+      "bio":"The Greek god of blacksmiths, craftsmen, artisans, sculptors, metals, metallurgy, fire and volcanoes.",
+      "image":"images/Hephaestus.jpg"
+    },
+    {
+      "name":"Eileithyia",
+      "bio":"Goddess of childbirth and midwifery.",
+      "isFemale":true
+    },
+    {
+      "name":"Ares",
+      "bio":"The Greek god of war. He is one of the Twelve Olympians.",
+      "image":"images/Ares.jpg"
+    }
+  ]
+}
