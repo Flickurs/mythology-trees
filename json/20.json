@@ -1,0 +1,40 @@
+{
+  "name": "Cronus + Rhea",
+  "bio":" ",
+  "image":"images/Cronus-and-Rhea.jpg",
+  "areParents":true,
+  "children":[
+    {
+      "name":"Demeter",
+      "bio":" ",
+      "image":"images/Demeter.jpg"
+    },
+    {
+      "name":"Poseidon",
+      "bio":" ",
+      "image":"images/Poseidon.jpg"
+    },
+    {
+      "name":"Zeus",
+      "bio":" ",
+      "image":"images/Zeus.jpg"
+    },
+    {
+      "name":"Hera",
+      "bio":" ",
+      "image":"images/Hera.jpg",
+      "isFemale":true
+    },
+    {
+      "name":"Hades",
+      "bio":" ",
+      "image":"images/Hades.jpg"
+    },
+    {
+      "name":"Hestia",
+      "bio":" ",
+      "image":"images/Hestia.jpg",
+      "isFemale":true
+    }
+  ]
+}
